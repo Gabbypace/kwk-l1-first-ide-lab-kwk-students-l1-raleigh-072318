@@ -1,3 +1,4 @@
 puts "hi queen elizabeth the 2nd"
 input = gets
-
+input =  "prince charles"
+puts input
