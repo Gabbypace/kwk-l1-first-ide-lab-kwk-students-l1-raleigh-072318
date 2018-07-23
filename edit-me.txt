@@ -1,2 +1,2 @@
-puts "hi queen elizabeth the 2nd
+puts hi queen elizabeth the 2nd
 
